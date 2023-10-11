@@ -1,8 +1,5 @@
 # PCM-PROJET-2022
 
-- William Benakli 21960601
-- David Saad 21955132
-
 ## LearnDico
 ![Logo](/ressources/learn_dico_logo.png)
 
